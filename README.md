@@ -1,4 +1,4 @@
-# AOPHelper – Python을 위한 강력한 AOP 라이브러리  
+# AOPHelper – Python을 위한 AOP 라이브러리  
 
 **AOPHelper**는 Python에서 **Aspect-Oriented Programming(AOP, 관점 지향 프로그래밍)**을 쉽게 적용할 수 있도록 도와주는 라이브러리입니다.  
 `@Aspect` 데코레이터를 사용하여 **로깅, 성능 측정, 예외 처리** 등을 간편하게 적용하세요!
