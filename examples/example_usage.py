@@ -1,4 +1,4 @@
-from aspect import Aspect
+from aophelper.aspect import Aspect
 from examples.loggingAdvice import LoggingAdvice
 
 # Create an AOP instance and set advice
